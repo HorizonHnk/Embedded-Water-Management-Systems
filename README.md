@@ -32,15 +32,17 @@ This repository contains a comprehensive **solar-powered washing machine system*
 
 ### **Key Features**
 
-- ☀️ **100% solar-powered operation** - Complete off-grid washing functionality
-- 🧺 **Full washing machine automation** - Multi-phase wash, rinse, and spin cycles
-- 🖥️ **Real-time LCD status display** - Monitor washing progress and solar power levels
-- ⚡ **Intelligent power management** - Optimized energy usage and battery backup
-- 🛡️ **Professional safety systems** - Door interlocks, emergency stops, and protection circuits
-- 🔄 **Smart motor control** - Variable speed, bidirectional drum rotation
-- 📊 **Arduino-based automation** - Complete embedded control system
-- 🌐 **Professional website documentation** - Comprehensive technical resources
-- 📺 **YouTube video tutorials and demonstrations** - Build guides and explanations
+- ☀️ **100% solar-powered operation** - Complete off-grid washing functionality with integrated battery storage
+- 🧺 **Full washing machine automation** - Multi-phase wash, rinse, and spin cycles with precision control
+- 📱 **Bluetooth connectivity** - HC-05 module enabling smartphone integration and remote monitoring
+- 🖥️ **Real-time status display** - LCD monitor with audio buzzer alerts for comprehensive user feedback
+- ⚡ **Intelligent power management** - Optimized energy usage with advanced battery storage system
+- 🛡️ **Professional safety systems** - Door interlocks, emergency stops, and comprehensive protection circuits
+- 🔄 **Smart motor control** - Variable speed, bidirectional drum rotation with audio feedback
+- 💧 **Precision water management** - Advanced water level control with automated flow management
+- 📊 **Arduino-based automation** - Complete embedded control with wireless communication capabilities
+- 🌐 **Professional website documentation** - Comprehensive technical resources and build guides
+- 📺 **YouTube video tutorials and demonstrations** - Complete build guides and technical explanations
 
 ---
 
