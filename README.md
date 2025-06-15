@@ -28,7 +28,7 @@ This repository contains comprehensive embedded systems projects for **water man
 ## 📁 **Repository Structure**
 
 ```
-📦 embedded-water-management/
+📦 Embedded-Water-Management-Systems/
 ├── 📂 arduino-solar-system/          # Solar-powered water management
 │   ├── 📂 src/                       # Arduino source code
 │   ├── 📂 schematics/                # Circuit diagrams
@@ -72,8 +72,8 @@ This repository contains comprehensive embedded systems projects for **water man
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/embedded-water-management.git
-cd embedded-water-management
+git clone https://github.com/HorizonHnk/Embedded-Water-Management-Systems.git
+cd Embedded-Water-Management-Systems
 
 # Install dependencies
 # (Instructions for each project in respective README files)
@@ -270,7 +270,7 @@ void controlMotor(int speed, bool direction) {
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/embedded-water-management.git
+git clone https://github.com/HorizonHnk/Embedded-Water-Management-Systems.git
 
 # Open in Arduino IDE
 arduino arduino-solar-system/src/main.ino
@@ -347,7 +347,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Embedded Water Management Systems
+Copyright (c) 2025 HorizonHnk - Embedded Water Management Systems
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -366,10 +366,8 @@ of this software and associated documentation files...
 
 ## 📞 **Support & Contact**
 
-- 📧 **Email**: support@embedded-water-systems.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/embedded-water-management/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/embedded-water-management/discussions)
-- 📖 **Wiki**: [Project Wiki](https://github.com/yourusername/embedded-water-management/wiki)
+- 📧 **Email**: hhnk3693@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/HorizonHnk/Embedded-Water-Management-Systems/issues)
 
 ---
 
