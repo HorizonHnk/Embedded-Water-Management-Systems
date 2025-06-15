@@ -6,6 +6,17 @@
 [![Arduino](https://img.shields.io/badge/Platform-Arduino-blue.svg)](https://www.arduino.cc/)
 [![Solar Powered](https://img.shields.io/badge/Power-Solar-green.svg)](https://en.wikipedia.org/wiki/Solar_power)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://peppy-longma-3e4c41.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red.svg)](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b)
+
+---
+
+## 🔗 **Quick Links**
+
+- 🌐 **Live Website**: [https://peppy-longma-3e4c41.netlify.app/](https://peppy-longma-3e4c41.netlify.app/)
+- 📺 **YouTube Channel**: [Solar & Washing Machine Engineering](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b)
+- 📧 **Contact**: [hhnk3693@gmail.com](mailto:hhnk3693@gmail.com)
+- 💻 **GitHub**: [HorizonHnk](https://github.com/HorizonHnk)
 
 ---
 
@@ -13,15 +24,23 @@
 
 This repository contains comprehensive embedded systems projects for **water management applications**, featuring both **Arduino-based solar systems** and **industrial washing machine controllers**. The projects demonstrate real-world applications of microcontroller programming, sensor integration, and automated control systems.
 
-### 🎯 **Key Features**
+### 🌐 **Live Documentation & Demos**
+
+- **Professional Website**: Complete project documentation, technical specifications, and visual demonstrations available at [https://peppy-longma-3e4c41.netlify.app/](https://peppy-longma-3e4c41.netlify.app/)
+- **Video Tutorials**: In-depth technical explanations and build demonstrations on our [YouTube Channel](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b)
+- **Interactive Demos**: System architecture diagrams and component explanations
+
+### **Key Features**
 
 - ☀️ **Solar-powered autonomous operation**
-- 📱 **Remote control via IR communication**
+- 📱 **Remote control via IR communication** 
 - 🖥️ **Real-time LCD status display**
 - ⚡ **Motor control with PWM and H-bridge drivers**
 - 🛡️ **Safety interlocks and protection circuits**
 - 🔄 **Bidirectional pump and motor control**
 - 📊 **Sensor-based feedback systems**
+- 🌐 **Professional website documentation**
+- 📺 **YouTube video tutorials and demonstrations**
 
 ---
 
@@ -50,6 +69,20 @@ This repository contains comprehensive embedded systems projects for **water man
 ---
 
 ## 🚀 **Quick Start**
+
+### **🌐 Explore Online First**
+
+Before diving into the code, check out our comprehensive online resources:
+
+1. **Visit the Website**: [https://peppy-longma-3e4c41.netlify.app/](https://peppy-longma-3e4c41.netlify.app/)
+   - View detailed system architecture diagrams
+   - Understand component interactions
+   - See technical specifications
+
+2. **Watch Tutorial Videos**: [YouTube Channel](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b)
+   - Solar system build walkthroughs
+   - Washing machine controller explanations
+   - Component-specific tutorials
 
 ### **Prerequisites**
 
@@ -355,6 +388,31 @@ of this software and associated documentation files...
 
 ---
 
+## 🎓 **Additional Resources**
+
+### **📚 Complete Documentation**
+Visit our [professional website](https://peppy-longma-3e4c41.netlify.app/) for:
+- Interactive system architecture diagrams
+- Detailed component specifications
+- Visual project galleries
+- Professional contact information
+- Technical implementation guides
+
+### **🎬 Video Content**
+Subscribe to our [YouTube Channel](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b) for:
+- Step-by-step build tutorials
+- Component deep-dive explanations
+- Troubleshooting guides
+- Real-world deployment demonstrations
+- Professional engineering insights
+
+### **💼 Professional Services**
+For source code access, technical consultation, or custom development:
+- **Email**: [hhnk3693@gmail.com](mailto:hhnk3693@gmail.com)
+- **Available Services**: Custom project development, technical consultation, educational collaboration
+
+---
+
 ## 🙏 **Acknowledgments**
 
 - **Arduino Community** for excellent hardware platform
@@ -366,16 +424,20 @@ of this software and associated documentation files...
 
 ## 📞 **Support & Contact**
 
-- 📧 **Email**: hhnk3693@gmail.com
+- 📧 **Email**: [hhnk3693@gmail.com](mailto:hhnk3693@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/HorizonHnk/Embedded-Water-Management-Systems/issues)
+- 🌐 **Website**: [https://peppy-longma-3e4c41.netlify.app/](https://peppy-longma-3e4c41.netlify.app/)
+- 📺 **YouTube**: [Solar & Washing Machine Engineering](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b)
 
 ---
 
 ## 🏆 **Project Status**
 
 - ✅ **Arduino Solar System**: Production Ready
+- ✅ **Professional Website**: Live and Deployed
+- ✅ **YouTube Channel**: Active with Technical Content
 - 🚧 **Washing Machine Controller**: In Development
-- 📋 **Documentation**: 90% Complete
+- 📋 **Documentation**: 95% Complete
 - 🧪 **Testing**: Ongoing
 
 ---
@@ -391,7 +453,15 @@ of this software and associated documentation files...
 - [ ] **Machine learning** for optimal scheduling
 - [ ] **Multi-language support** for international use
 
-### **Long-term Goals**
+### **Content & Documentation Goals**
+
+- [ ] **Video Tutorial Series**: Complete build walkthroughs for both projects
+- [ ] **Interactive Website Features**: Online system configurators and calculators
+- [ ] **Technical Blog Posts**: In-depth engineering analysis and case studies
+- [ ] **Community Contributions**: Open-source collaboration and user submissions
+- [ ] **Educational Partnerships**: University and technical school curriculum integration
+
+### **Long-term Technical Goals**
 
 - [ ] **Commercial-grade** PCB design
 - [ ] **IoT platform** integration
@@ -406,3 +476,7 @@ of this software and associated documentation files...
 **🍴 Fork it to contribute!**
 
 **🐛 Report issues to help improve the project!**
+
+**🌐 Visit our [website](https://peppy-longma-3e4c41.netlify.app/) for complete documentation!**
+
+**📺 Subscribe to our [YouTube channel](https://www.youtube.com/playlist?list=PLrZbkNpNVSww3QIStzPcdd2qOiZF5aa6b) for video tutorials!**
